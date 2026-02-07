@@ -262,6 +262,7 @@ nav ul li a.active {
   margin: 0 auto;
   display: flex;
   gap: 30px;
+   margin-bottom: 40px;
   transition: var(--transition);
 }
 
